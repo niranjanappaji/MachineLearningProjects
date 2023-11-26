@@ -4,5 +4,8 @@ Self learning Machine Learning Projects.
 
 Contents:
 
-1. Logistic Regression
-   1.1. Diabetes Prediction Model
+Classification Problem:
+
+1. Simple Logistic Regression
+2. Diabetes Prediction Model
+3. 
